@@ -1,0 +1,2 @@
+# przetwarzanie-rozproszone
+Projekt zaliczeniowy
