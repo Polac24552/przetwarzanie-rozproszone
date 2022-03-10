@@ -8,3 +8,4 @@ Projekt zaliczeniowy
 - Zakładanie konta MC Azure
 - Tworzenie virtualek windowsa + ubuntu
 - Pingowanie między virtualkami
+- Intalowanie ngnix na virtualkach i edytowanie html
