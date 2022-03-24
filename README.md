@@ -9,3 +9,6 @@ Projekt zaliczeniowy
 - Tworzenie virtualek windowsa + ubuntu
 - Pingowanie między virtualkami
 - Intalowanie ngnix na virtualkach i edytowanie html
+
+# Lab 2 - 24.03.2022
+- sql bazadanych Azure (aplikacja ze struktur oraz hosting)
