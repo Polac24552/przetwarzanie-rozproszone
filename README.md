@@ -12,3 +12,6 @@ Projekt zaliczeniowy
 
 # Lab 2 - 24.03.2022
 - sql bazadanych Azure (aplikacja ze struktur oraz hosting)
+
+# Lab 3 - 05.05.2022
+- Azure Dev Ops
