@@ -15,3 +15,6 @@ Projekt zaliczeniowy
 
 # Lab 3 - 05.05.2022
 - Azure Dev Ops
+
+# Lab 5 - 19.05.2022
+- Rasberry Pi w akcji - zapoznanie z urządzeniem 
